@@ -61,15 +61,23 @@
             <description locale="en_US">Customer account navigation menu</description>
             <description locale="ru_RU">Меню навигации в личном кабинете покупателя</description>
         </file>
-        <file path="my.profile.html" parent="1">
+        <file path="my.profile.html" custom="0" parent="1">
         </file>
-        <file path="login.html" parent="1">
+        <file path="login.html">
+            <description locale="en_US">Login page</description>
+            <description locale="ru_RU">Страница входа для пользователей</description>
         </file>
-        <file path="signup.html" parent="1">
+        <file path="signup.html">
+            <description locale="en_US">Sign up page</description>
+            <description locale="ru_RU">Страница регистрации пользователей</description>
         </file>
-        <file path="forgotpassword.html" parent="1">
+        <file path="forgotpassword.html">
+            <description locale="en_US">Forgot password page</description>
+            <description locale="ru_RU">Страница сброса пароля</description>
         </file>
-        <file path="error.html" parent="1">
+        <file path="error.html">
+            <description locale="en_US">404 and other errors</description>
+            <description locale="ru_RU">404 и другие ошибки</description>
         </file>
     </files>
   <thumbs>
